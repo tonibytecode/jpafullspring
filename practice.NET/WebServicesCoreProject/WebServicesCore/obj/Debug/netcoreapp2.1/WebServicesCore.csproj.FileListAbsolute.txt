@@ -1,0 +1,14 @@
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\WebServicesCore\bin\Debug\netcoreapp2.1\WebServicesCore.deps.json
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\WebServicesCore\bin\Debug\netcoreapp2.1\WebServicesCore.runtimeconfig.json
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\WebServicesCore\bin\Debug\netcoreapp2.1\WebServicesCore.runtimeconfig.dev.json
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\WebServicesCore\bin\Debug\netcoreapp2.1\WebServicesCore.dll
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\WebServicesCore\obj\Debug\netcoreapp2.1\WebServicesCore.csprojAssemblyReference.cache
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\WebServicesCore\obj\Debug\netcoreapp2.1\WebServicesCore.csproj.CoreCompileInputs.cache
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\WebServicesCore\obj\Debug\netcoreapp2.1\WebServicesCore.RazorAssemblyInfo.cache
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\WebServicesCore\obj\Debug\netcoreapp2.1\WebServicesCore.RazorAssemblyInfo.cs
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\WebServicesCore\obj\Debug\netcoreapp2.1\WebServicesCore.AssemblyInfoInputs.cache
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\WebServicesCore\obj\Debug\netcoreapp2.1\WebServicesCore.AssemblyInfo.cs
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\WebServicesCore\obj\Debug\netcoreapp2.1\WebServicesCore.RazorTargetAssemblyInfo.cache
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\WebServicesCore\bin\Debug\netcoreapp2.1\WebServicesCore.pdb
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\WebServicesCore\obj\Debug\netcoreapp2.1\WebServicesCore.dll
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\WebServicesCore\obj\Debug\netcoreapp2.1\WebServicesCore.pdb

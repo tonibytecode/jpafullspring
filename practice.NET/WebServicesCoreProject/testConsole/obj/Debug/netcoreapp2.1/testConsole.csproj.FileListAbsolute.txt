@@ -1,0 +1,11 @@
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\testConsole\bin\Debug\netcoreapp2.1\testConsole.deps.json
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\testConsole\bin\Debug\netcoreapp2.1\testConsole.runtimeconfig.json
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\testConsole\bin\Debug\netcoreapp2.1\testConsole.runtimeconfig.dev.json
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\testConsole\bin\Debug\netcoreapp2.1\testConsole.dll
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\testConsole\bin\Debug\netcoreapp2.1\testConsole.pdb
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\testConsole\obj\Debug\netcoreapp2.1\testConsole.csproj.CoreCompileInputs.cache
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\testConsole\obj\Debug\netcoreapp2.1\testConsole.AssemblyInfoInputs.cache
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\testConsole\obj\Debug\netcoreapp2.1\testConsole.AssemblyInfo.cs
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\testConsole\obj\Debug\netcoreapp2.1\testConsole.dll
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\testConsole\obj\Debug\netcoreapp2.1\testConsole.pdb
+C:\Users\marvin.mendez\source\repos\WebServicesCoreProject\testConsole\obj\Debug\netcoreapp2.1\testConsole.csprojAssemblyReference.cache
